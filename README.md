@@ -1,4 +1,4 @@
-## **Software-Design-Patterns**
+## **Design-Patterns-Project**
 group members:
 1. Majed Alshehri - 2142466
 2. Alhussain Essa - 2143991
